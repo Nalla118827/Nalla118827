@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm NallaNaresh</h1>
+
 <h3 align="center">A passionate VLSI Design and Verification Engineering</h3>
+
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.Zh6DsQ5mkY6CDSoacW0HxAHaEK?w=1280&h=720&rs=1&pid=ImgDetMain.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalla118827&label=Profile%20views&color=0e75b6&style=flat" alt="nalla118827" /> </p>
 
