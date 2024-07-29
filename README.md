@@ -6,8 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalla118827&label=Profile%20views&color=0e75b6&style=flat" alt="nalla118827" /> </p>
 
+- 🌱 Advanced VLSI Design and Verification Trainee at Maven Silicon VLSI Training Centre, Bengaluru.
 
-- 🌱 Advanced VLSI Design and Verification Trainee at Maven Silicon VLSI Training Centre, Bengaluru and B.Tech ECE 2023 passed out from ACE Engineering College, Hyderabad
+- <img align="left" alt="coding" width="22" length="22" src="https://cdn1.iconfinder.com/data/icons/education-2-1/256/Student_Reading-1024.png">B.Tech ECE 2023 passed out from ACE Engineering College, Hyderabad,
+                                                                                                                                                 Diploma in ECE 2020 passed out from Tirumala Engineering College, Hyderabad
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nalla118827?tab=repositories](https://github.com/Nalla118827?tab=repositories)
 
@@ -15,7 +17,6 @@
 
 - 📫 How to reach me nallanaresh118827@gmail.com and Contact +917702012461
 
-- <img align="left" alt="coding" width="22" src="https://cdn1.iconfinder.com/data/icons/education-2-1/256/Student_Reading-1024.png"> Diploma in Electronics and communication
 
 
 
