@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NallaNaresh</h1>
 
-<h3 align="center">A passionate VLSI Design and Verification Engineering</h3>
+<h3 align="center">A passionate VLSI Design and Verification Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.Zh6DsQ5mkY6CDSoacW0HxAHaEK?w=1280&h=720&rs=1&pid=ImgDetMain.jpg">
 
@@ -11,7 +11,7 @@
 - <img align="left" alt="coding" width="22" length="22" src="https://cdn1.iconfinder.com/data/icons/education-2-1/256/Student_Reading-1024.png">B.Tech ECE 2023 passed out from ACE Engineering College, Hyderabad,
                                                                                                                                                  Diploma in ECE 2020 passed out from Tirumala Engineering College, Hyderabad
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nalla118827?tab=repositories](https://github.com/Nalla118827?tab=repositories)
+- 👨‍💻 All of my projects are [https://github.com/Nalla118827?tab=repositories](https://github.com/Nalla118827?tab=repositories)
 
 - 📝 I Active on [https://github.com/nalla118827](https://github.com/nalla118827)
 
