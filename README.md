@@ -1,10 +1,12 @@
 ![github-header-image](https://github.com/user-attachments/assets/5b8a8774-9fc7-44c1-a762-a2a70fc61834)
-<h1 align="center">Hi 👋, I'm Nalla Naresh</h1>
-<h3 align="center">A passionate VLSI Design and Verification Engineer</h3>
 
+<h1 align="center">Hi 👋, I'm Nalla Naresh</h1>
+
+<h3 align="center">A passionate VLSI Design and Verification Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.Zh6DsQ5mkY6CDSoacW0HxAHaEK?w=1280&h=720&rs=1&pid=ImgDetMain.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalla118827&label=Profile%20views&color=0e75b6&style=flat" alt="nalla118827" /> </p>
+
 
 
 
@@ -69,8 +71,7 @@
   </a>
 </p>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-GitHub-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nalla118827&show_icons=true&locale=en&layout=compact" alt="nalla118827" /></p>
