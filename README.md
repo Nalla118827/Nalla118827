@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/Nalla118827/Nalla118827/blob/main/Github_Banner.jpg)
+![github-header-image](https://github.com/Nalla118827/Nalla118827/blob/main/img8.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Nalla Naresh</h1>
