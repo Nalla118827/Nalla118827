@@ -8,6 +8,8 @@ Here's an updated version of your profile with a logo for the skills heading tha
 
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.Zh6DsQ5mkY6CDSoacW0HxAHaEK?w=1280&h=720&rs=1&pid=ImgDetMain.jpg">
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1366606/screenshots/8075231/media/e971c24ffcfc453ec6c21accb4acbec8.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalla118827&label=Profile%20views&color=0e75b6&style=flat" alt="nalla118827" /> </p>
 
 - 🌱 Advanced VLSI Design and Verification Trainee at Maven Silicon VLSI Training Centre, Bengaluru.
