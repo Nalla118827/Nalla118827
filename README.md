@@ -9,8 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalla118827&label=Profile%20views&color=0e75b6&style=flat" alt="nalla118827" /> </p>
 
 
-
-
 - 🌱 Advanced VLSI Design and Verification Trainee at Maven Silicon VLSI Training Centre, Bengaluru.
 
 - 🎓 **B.Tech ECE** (2023) from ACE Engineering College, Hyderabad
@@ -35,17 +33,21 @@
 </h3>
 
 <table>
+<tr>
+    <td><strong>Digitial Design</strong></td>
+    <td><img width="85" src="https://github.com/user-attachments/assets/f7f14173-67bc-459a-9e03-8626ffcbaa41" alt="Vivado"></td>
+  </tr>
   <tr>
     <td><strong>HDL Verilog</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/verilog.png" alt="Verilog"></td>
+    <td><img width="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130092.png" alt="Verilog"></td>
   </tr>
   <tr>
     <td><strong>HDVL SystemVerilog</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/system-verilog.png" alt="SystemVerilog"></td>
+    <td><img width="45" src="https://static-00.iconduck.com/assets.00/file-type-light-systemverilog-icon-2048x2048-301q87xk.png" alt="SystemVerilog"></td>
   </tr>
   <tr>
     <td><strong>UVM (Universal Verification Methodology)</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/uvm.png" alt="UVM"></td>
+    <td><img width="45" src="https://th.bing.com/th/id/OIP.c5Gn6XB3Qqvcjz-V8FYVigAAAA?rs=1&pid=ImgDetMain" alt="UVM"></td>
   </tr>
   <tr>
     <td><strong>FPGA Design using Vivado</strong></td>
@@ -57,11 +59,11 @@
   </tr>
   <tr>
     <td><strong>Assertion-Based Verification</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/assertion.png" alt="Assertion-Based Verification"></td>
+    <td><img width="45" src="https://www.svgrepo.com/download/373794/light-testcafe.svg" alt="Assertion-Based Verification"></td>
   </tr>
   <tr>
-    <td><strong>C++ Programming</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"></td>
+    <td><strong>Perl Programming</strong></td>
+    <td><img width="45" src="https://th.bing.com/th/id/OIP.NCbNz0ERmNL6QTkQFV1JTAHaHa?rs=1&pid=ImgDetMain" alt="Perl"></td>
   </tr>
 </table>
 
