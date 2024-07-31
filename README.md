@@ -49,14 +49,7 @@
     <td><strong>UVM (Universal Verification Methodology)</strong></td>
     <td><img width="45" src="https://th.bing.com/th/id/OIP.c5Gn6XB3Qqvcjz-V8FYVigAAAA?rs=1&pid=ImgDetMain" alt="UVM"></td>
   </tr>
-  <tr>
-    <td><strong>FPGA Design using Vivado</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/vivado.png" alt="Vivado"></td>
-  </tr>
-  <tr>
-    <td><strong>Cadence Tools for VLSI Design</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/cadence.png" alt="Cadence"></td>
-  </tr>
+ 
   <tr>
     <td><strong>Assertion-Based Verification</strong></td>
     <td><img width="45" src="https://www.svgrepo.com/download/373794/light-testcafe.svg" alt="Assertion-Based Verification"></td>
