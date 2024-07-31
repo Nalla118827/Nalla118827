@@ -67,7 +67,30 @@
   </a>
 </p>
 
-
+   <table>
+      <tr>
+        <th>Company</th>
+        <th>EDA Tools</th>
+      </tr>
+      <tr>
+        <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Synopsys_logo.svg/1200px-Synopsys_logo.svg.png" alt="Synopsys Logo" width="50"></td>
+        <td>
+          <ul>
+            <li>Synopsys – VCS</li>
+            <li>Synopsys Design Compiler</li>
+            <li>VC Spyglass Lint</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="https://www.mentor.com/assets/images/mgc-logo.png" alt="Mentor Graphics Logo" width="50"></td>
+        <td>Mentor Graphics – Questasim</td>
+      </tr>
+      <tr>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Xilinx_logo.svg/1280px-Xilinx_logo.svg.png" alt="Xilinx Logo" width="50"></td>
+        <td>Xilinx - ISE</td>
+      </tr>
+    </table>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nalla118827&show_icons=true&locale=en&layout=compact" alt="nalla118827" /></p>
