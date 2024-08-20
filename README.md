@@ -73,7 +73,7 @@
         <th>EDA Tools</th>
       </tr>
       <tr>
-        <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Synopsys_logo.svg/1200px-Synopsys_logo.svg.png" alt="Synopsys Logo" width="50"></td>
+        <td><img src="https://th.bing.com/th/id/OIP.Cr1gNQvxUZ3Hurzw9maLuwHaHa?w=500&h=500&rs=1&pid=ImgDetMain" alt="Synopsys Logo" width="75"></td>
         <td>
           <ul>
             <li>Synopsys – VCS</li>
@@ -83,11 +83,11 @@
         </td>
       </tr>
       <tr>
-        <td><img src="https://www.mentor.com/assets/images/mgc-logo.png" alt="Mentor Graphics Logo" width="50"></td>
+        <td><img src="https://th.bing.com/th/id/OIP.8YR-i211Z345sVjhq00C1QAAAA?rs=1&pid=ImgDetMain" alt="Mentor Graphics Logo" width="50"></td>
         <td>Mentor Graphics – Questasim</td>
       </tr>
       <tr>
-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Xilinx_logo.svg/1280px-Xilinx_logo.svg.png" alt="Xilinx Logo" width="50"></td>
+        <td><img src="https://th.bing.com/th/id/R.a9cdac1b4715b8d05378ef6b1844c353?rik=LQq7L8lK2x8S4g&riu=http%3a%2f%2flogonoid.com%2fimages%2fxilinx-logo.png&ehk=iYwRKeru8q4fbmuetackimvLdF6jiJaTNfhrt8PhlFU%3d&risl=&pid=ImgRaw&r=0" alt="Xilinx Logo" width="75"></td>
         <td>Xilinx - ISE</td>
       </tr>
     </table>
